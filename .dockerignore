@@ -1,0 +1,10 @@
+.git
+.results
+scripts
+*Dockerfile*
+node_modules
+.env*
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
